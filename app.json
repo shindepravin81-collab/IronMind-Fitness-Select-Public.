@@ -1,3 +1,4 @@
+
 {
   "expo": {
     "name": "IronMind Fitness",
@@ -17,6 +18,11 @@
     },
     "web": {
       "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4f636b39-85d2-45cc-9771-f97bd27668b0"
+      }
     }
   }
 }
