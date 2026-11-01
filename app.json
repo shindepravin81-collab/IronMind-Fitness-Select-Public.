@@ -2,7 +2,7 @@
 {
   "expo": {
     "name": "IronMind Fitness",
-    "slug": "iron-mind-fitness",
+    "slug": "ironmind-fitness",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
